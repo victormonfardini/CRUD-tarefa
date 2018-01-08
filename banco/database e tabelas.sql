@@ -1,4 +1,4 @@
-CREATE DATABASE sitetarefa2;
+CREATE DATABASE sitetarefa;
 
 Create table usuarios (
 id Int UNSIGNED NOT NULL AUTO_INCREMENT,
