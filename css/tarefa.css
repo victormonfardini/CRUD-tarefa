@@ -1,0 +1,27 @@
+body {
+    padding-top: 50px;
+}
+
+.principal {
+    padding: 40px 15px;
+    text-align: center;
+    
+}
+
+.login-cadastro {
+    border: 1px solid black;
+    padding-bottom: 25px;
+    margin-right: 350px;
+    margin-left: 350px;
+}
+
+.criar-tarefa {
+    border: 1px solid black;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+.titulo-lista{
+    text-align: center;
+    font-size: 120%;
+}
